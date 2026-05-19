@@ -36,7 +36,6 @@ export default function Navbar() {
           </Link>
         </div>
 
-        {/* Auth CTA */}
         <Link href="/auth/signin">
           <button className="px-5 py-2 rounded-full border border-red-600 text-white text-sm hover:bg-red-600 transition-all">
             Sign In
