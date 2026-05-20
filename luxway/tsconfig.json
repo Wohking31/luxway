@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "components/Navbar.tsx", "config/tailwind.config.js"  ],
   "exclude": ["node_modules"]
 }
