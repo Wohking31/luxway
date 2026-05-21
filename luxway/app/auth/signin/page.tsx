@@ -59,7 +59,6 @@ export default function AuthenticationPage() {
           </p>
         </div>
 
-        {/* Input Interactive Form Layer */}
         <form onSubmit={handleSubmit} className="space-y-4">
           {isSignUp && (
             <div>
